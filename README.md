@@ -1,0 +1,2 @@
+# Designing-a-Common-Source-Amplifier-Circuit-for-Amplifying-Sinusoidal-Signal-using-2N7000
+This project involves designing a common source amplifier circuit to amplify a sinusoidal signal with a peak-to-peak voltage of 10mV. The amplified signal is then read using an Arduino microcontroller. The project aims to enhance practical skills in circuit design, simulation, and real-world implementation.
